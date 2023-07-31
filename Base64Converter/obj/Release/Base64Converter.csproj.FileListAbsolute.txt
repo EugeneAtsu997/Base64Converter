@@ -1,0 +1,8 @@
+C:\Users\EUGENE\source\repos\Base64Converter\bin\Release\Base64Converter.exe.config
+C:\Users\EUGENE\source\repos\Base64Converter\bin\Release\Base64Converter.exe
+C:\Users\EUGENE\source\repos\Base64Converter\bin\Release\Base64Converter.pdb
+C:\Users\EUGENE\source\repos\Base64Converter\obj\Release\Base64Converter.csproj.AssemblyReference.cache
+C:\Users\EUGENE\source\repos\Base64Converter\obj\Release\Base64Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\EUGENE\source\repos\Base64Converter\obj\Release\Base64Converter.csproj.CoreCompileInputs.cache
+C:\Users\EUGENE\source\repos\Base64Converter\obj\Release\Base64Converter.exe
+C:\Users\EUGENE\source\repos\Base64Converter\obj\Release\Base64Converter.pdb
